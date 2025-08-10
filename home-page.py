@@ -145,7 +145,7 @@ if menu == "Home":
             font-weight: bold;
             margin: 0;
         ">
-            ❄ Sample Installation Gallery ❄
+            ❄ SamDav - Our Services & Logo ❄
         </h3>
     </div>
     """,
